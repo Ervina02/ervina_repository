@@ -1,1 +1,5 @@
 File ini berisi mengenai rencana topik yang akan dibuat untuk UAS
+
+Rancangan sejauh ini:
+- membuat web
+- membuat tampilannya terlebih dahulu
